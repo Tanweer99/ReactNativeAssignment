@@ -1,0 +1,1 @@
+export const ADD_NEW_BUDGET = 'BUDGET/ADD_NEW_BUDGET';
